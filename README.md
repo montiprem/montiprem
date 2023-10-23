@@ -7,7 +7,7 @@
 
 ## How to Reach Me
 - 📧 Feel free to reach out to me via email: [impremmandal@gmail.com](mailto:impremmandal@gmail.com)
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/prem-mandal)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/premmandal)
 
 ## Projects
 - 📂 You can check out some of my work and projects on my GitHub profile.
