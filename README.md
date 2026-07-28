@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/montiprem/montiprem/main/assetsbanner.png.jpg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/montiprem/montiprem/main/banner.svg" width="100%"/>
 </div>
 
 <div align="center">
