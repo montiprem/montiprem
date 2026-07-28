@@ -1,34 +1,241 @@
-# Hi there, I'm Prem Mandal 👋
+<div align="center">
 
-## About Me
-💼 Power BI Developer with around 2 years of experience in designing interactive dashboards and delivering actionable business insights.
-📊 Strong expertise in Power BI, DAX, SQL, Power Query, Excel, and Python.
-🔄 Experienced in implementing ETL pipelines and transforming raw data into meaningful analytical solutions.
-🧠 Proven ability to translate business requirements into data-driven insights that support decision-making.
+# Hi 👋, I'm Prem Mandal
 
-## How to Reach Me
-- 📧 Feel free to reach out to me via email: [impremmandal@gmail.com](mailto:impremmandal@gmail.com)
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/premmandal)
+### Data Analyst | Power BI Developer | Microsoft Fabric Enthusiast
 
-## Projects
-- 📂 You can check out some of my work and projects on my GitHub profile.
+Building enterprise-grade Business Intelligence solutions that transform raw data into actionable insights.
 
-## Skills
-- 📊 Data Analysis
-- 📈 Data Visualization
-- 💻 Python
-- 📉 Power bi 
-- 🎨 Tableau
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Thanks for stopping by my GitHub profile! Let's connect and create something awesome together. 😄
+<a href="mailto:jobs.premmandal@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-More about me -
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-2+ years of experience as a Data Analytics professional with a strong passion for analyzing data and developing insightful reports to support data-driven business decisions.
-• Proficient in Power BI, including data integration from multiple sources, dashboard and report development, Power BI Service workspace management, Row-Level Security (RLS) implementation, and dashboard publishing and sharing.
-• Strong understanding of data modeling and data warehousing concepts, including star schema, snowflake schema, fact tables, and dimensions.
-• Adept at visual storytelling, with excellent verbal and written communication skills and a keen eye for detail.
-• Demonstrated ability to lead teams, manage projects independently, and perform effectively in fast-paced, high-pressure environments.
-• Proven capability to work under tight timelines and challenging conditions, consistently delivering high-quality outputs.
-• Strong analytical and problem-solving skills, combined with a collaborative, team-oriented approach.
-• Experienced in requirement gathering, client presentations, and stakeholder management, with a proven ability to translate business needs into actionable analytics solutions.
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a Data Analyst & Power BI Developer passionate about solving business problems through data.
+
+I specialize in:
+
+- Building enterprise dashboards
+- Data Modeling
+- Power BI Service Administration
+- ETL Development
+- DAX Optimization
+- Microsoft Fabric
+- SQL Analytics
+- Process Automation using VBA
+
+Currently working on analytics solutions for Manufacturing Industry where I develop dashboards used by business leaders for operational decision making.
+
+---
+
+# 💼 Experience
+
+### Data Analyst
+**Utkarsh India Limited**
+
+- Employee Analytics
+- HR Dashboard
+- Attrition Dashboard
+- MIS Dashboard
+- VBA Automation
+- Process Digitization
+
+---
+
+### Power BI Developer
+**Bhauram Jodhraj Pvt Ltd**
+
+- Auction Sales Dashboard
+- Import Export Analytics
+- Volza Data Integration
+- Power BI Service Administration
+- DAX Development
+- Data Transformation
+
+---
+
+### Power BI Developer
+**Super Smelters Ltd**
+
+- Sales Analytics Dashboard
+- Vehicle Tracking Dashboard
+- Row Level Security
+- Power BI Service
+- Manufacturing KPI Dashboard
+
+---
+
+# 🛠 Tech Stack
+
+## BI Tools
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## Database
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+---
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+---
+
+## Microsoft
+
+![Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge)
+
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
+
+---
+
+## Other
+
+- ETL
+- Power Query
+- VBA
+- Data Modeling
+- Star Schema
+- Snowflake Schema
+- DAX
+- Row Level Security (RLS)
+
+---
+
+# 📊 Featured Projects
+
+## 📌 Employee Feedback Monitoring System
+
+✔ Employee Satisfaction Analysis
+
+✔ HOD Review Monitoring
+
+✔ Attrition Dashboard
+
+✔ KPI Tracking
+
+---
+
+## 📌 Manufacturing MIS Dashboard
+
+- Production Analysis
+
+- Department Wise KPI
+
+- Weekly MOM Reporting
+
+- Executive Dashboard
+
+---
+
+## 📌 Auction Sales Dashboard
+
+- Buyer Analysis
+
+- Margin Analysis
+
+- Tea Variety Performance
+
+- Weekly Auction Reports
+
+---
+
+## 📌 Import Export Analytics
+
+- Country Analysis
+
+- Trade Trends
+
+- Shipment Insights
+
+- Global Market Dashboard
+
+---
+
+## 📌 Sales Dashboard
+
+- Weekly Sales
+
+- Monthly Sales
+
+- Yearly Sales
+
+- Product Performance
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+- Microsoft Fabric
+- Data Engineering
+- Python Automation
+- Advanced DAX
+- Azure Data Services
+
+---
+
+# 🤝 Let's Connect
+
+📧 jobs.premmandal@gmail.com
+
+💼 LinkedIn
+
+💻 GitHub
+
+📍 Kolkata, India
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to Star my repositories!
+
+</div>
