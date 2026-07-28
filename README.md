@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/montiprem/montiprem/main/assetsbanner.png.jpg" width="100%"/>
+</div>
+
+<div align="center">
 
 # Hi 👋, I'm Prem Mandal
 
