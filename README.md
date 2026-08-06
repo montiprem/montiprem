@@ -11,6 +11,9 @@
 Building enterprise-grade Business Intelligence solutions that transform raw data into actionable insights.
 
 <p align="center">
+  <a href="https://prem-portfolio-drab.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/premmandal/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -47,27 +50,6 @@ Currently building analytics solutions for the **Manufacturing industry**, devel
 
 ---
 
-## 💼 Experience
-
-### Power BI Developer — **Super Smelters Ltd**
-- Sales Analytics Dashboard
-- Vehicle Tracking Dashboard
-- Row Level Security (RLS)
-- Power BI Service Administration
-- Manufacturing KPI Dashboard
-
-### Power BI Developer — **Bhauram Jodhraj Pvt Ltd**
-- Auction Sales Dashboard
-- Import Export Analytics
-- Volza Data Integration
-- Power BI Service Administration
-- DAX Development & Data Transformation
-
-### Data Analyst — **Utkarsh India Limited**
-- Employee Analytics
-- HR & Attrition Dashboards
-- MIS Dashboard
-- VBA Automation & Process Digitization
 
 ---
 
