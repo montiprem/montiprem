@@ -25,7 +25,7 @@ Building enterprise-grade Business Intelligence solutions that transform raw dat
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=montiprem&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=montiprem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -47,9 +47,6 @@ I specialize in:
 - 🤖 Process Automation using VBA
 
 Currently building analytics solutions for the **Manufacturing industry**, developing dashboards used by business leaders for operational decision-making.
-
----
-
 
 ---
 
@@ -81,47 +78,15 @@ Currently building analytics solutions for the **Manufacturing industry**, devel
 
 ---
 
-## 📊 Featured Projects
-
-### 📌 Employee Feedback Monitoring System
-- Employee Satisfaction Analysis
-- HOD Review Monitoring
-- Attrition Dashboard
-- KPI Tracking
-
-### 📌 Manufacturing MIS Dashboard
-- Production Analysis
-- Department-wise KPI
-- Weekly MOM Reporting
-- Executive Dashboard
-
-### 📌 Auction Sales Dashboard
-- Buyer Analysis
-- Margin Analysis
-- Tea Variety Performance
-- Weekly Auction Reports
-
-### 📌 Import Export Analytics
-- Country Analysis
-- Trade Trends
-- Shipment Insights
-- Global Market Dashboard
-
-### 📌 Sales Dashboard
-- Weekly / Monthly / Yearly Sales
-- Product Performance Analysis
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=montiprem&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=montiprem&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=montiprem&show_icons=true&theme=tokyonight" alt="Prem's GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=montiprem&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=montiprem&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=montiprem&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
